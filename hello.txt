@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main(){
-
-	printf("ninggle binggle");
+	
+	for(int ctr = 0; ctr < 5; ++ctr)
+		printf("ninggle binggle");
 	
 	return 0;
 	
